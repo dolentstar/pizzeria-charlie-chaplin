@@ -1,5 +1,6 @@
 // Dati del sito. Il template (index.html) legge solo questo file.
 window.SITE = {
+  layout: "storico",
   name: "Pizzeria Charlie Chaplin",
   shortName: "Charlie Chaplin",
   tagline: "Pizzeria · Farinata",
