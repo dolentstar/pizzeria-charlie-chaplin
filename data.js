@@ -23,8 +23,8 @@ window.SITE = {
   theme: { primary: "#5a1a1f", primaryDark: "#3d1115", accent: "#9a6a22", accentLight: "#e8c98a", soft: "#f1e6d6", cream: "#f6ecdb", paper: "#fbf6ec", line: "#e6d8c0" },
 
   hero: {
-    image: "img/pizza-burrata.webp",
-    imageAlt: "Pizza con mortadella, burrata e granella di pistacchio",
+    image: "img/sala.webp",
+    imageAlt: "La sala della Pizzeria Charlie Chaplin con il murale",
     eyebrow: "Via Monginevro · Torino · dal 1988",
     title: "Padellino, mattone",
     titleEm: "e farinata",
@@ -41,8 +41,8 @@ window.SITE = {
   ],
 
   story: {
-    image: "img/sala.webp",
-    imageAlt: "La sala della pizzeria con il murale di Charlie Chaplin",
+    image: "img/pizza-funghi.webp",
+    imageAlt: "Pizza con mozzarella, funghi e prosciutto",
     eyebrow: "Chi siamo",
     title: "Dal 1988 in Via Monginevro",
     paragraphs: [
@@ -196,11 +196,10 @@ window.SITE = {
     title: "Dal forno di Via Monginevro",
     lead: "La sala e alcune delle nostre pizze.",
     images: [
-      { src: "img/sala.webp", alt: "La sala con il murale di Charlie Chaplin" },
-      { src: "img/pizza-mattone.webp", alt: "Pizza bianca con funghi e prosciutto crudo" },
-      { src: "img/pizza-funghi.webp", alt: "Pizza con mozzarella e funghi" },
+      { src: "img/pizza-cuore.webp", alt: "Pizza a forma di cuore sulla tovaglia con Charlie Chaplin" },
+      { src: "img/pizza-mattone.webp", alt: "Pizza al mattone con funghi e prosciutto crudo" },
       { src: "img/gnocco-fritto.webp", alt: "Burrata, prosciutto e gnocco fritto" },
-      { src: "img/pizza-cuore.webp", alt: "Pizza margherita a forma di cuore" }
+      { src: "img/pizza-mortadella.webp", alt: "Pizza con mortadella, burrata e pistacchio" }
     ]
   },
 
